@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b534169-f289-40ef-97d0-67b13d0f423d" name="Changes" comment="" />
+    <list default="true" id="d179f970-d8e3-4b8b-b593-4a95c1d23434" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="HTML File" />
         <option value="Class" />
       </list>
@@ -31,7 +30,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectId" id="26x2qdY1QKCRXlg8IXd1zX5mXjE" />
+  <component name="ProjectId" id="27Ap7VJhgJp8OZk3dsigZvcPfXo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,36 +41,28 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main/resources" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-data/src/main/java/map" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN2\pet-clinic-web\src\main\resources" />
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN2\pet-clinic-web\src\main" />
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN2\pet-clinic-data\src\main\java" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-data\src\main\java\map" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-data\src\main\java\service" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-data\src\main\java\model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN2\pet-clinic-web\src\main\resources" />
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN2\src\main\resources" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="services.map" />
-      <recent name="services" />
-      <recent name="PetClinic.java.PetClinic" />
-      <recent name="PetClinic" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PetClinicApplication (1)">
-    <configuration name="PetClinicApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.petClinic.PetClinic.PetClinicApplication" />
-      <module name="SFG-CLINIC-GERMAN2" />
+  <component name="RunManager">
+    <configuration name="PetClinicApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.PetClinic.petclinic.PetClinicApplication" />
+      <module name="pet-clinic-web" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.petClinic.PetClinic.*" />
+          <option name="PATTERN" value="com.PetClinic.petclinic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,22 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PetClinicApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PetClinic.PetClinicApplication" />
-      <module name="pet-clinic-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PetClinic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration default="true" type="JetRunConfigurationType">
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PetClinicApplication (1)" />
         <item itemvalue="Application.PetClinicApplication" />
       </list>
     </recent_temporary>
@@ -102,11 +90,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="8b534169-f289-40ef-97d0-67b13d0f423d" name="Changes" comment="" />
-      <created>1648351111792</created>
+      <changelist id="d179f970-d8e3-4b8b-b593-4a95c1d23434" name="Changes" comment="" />
+      <created>1648772578538</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1648351111792</updated>
+      <updated>1648772578538</updated>
     </task>
     <servers />
   </component>
