@@ -1,7 +1,5 @@
 package com.PetClinic.petclinic.bootstrap;
 
-import com.petClinic.petclinic.map.map.OwnerServiceMap;
-import com.petClinic.petclinic.map.map.VetServiceMap;
 import com.petClinic.petclinic.map.model.Owner;
 import com.petClinic.petclinic.map.model.Vet;
 import com.petClinic.petclinic.map.service.OwnerService;
@@ -15,9 +13,10 @@ public class DataLoader implements CommandLineRunner {
     private final OwnerService ownerService;
     private final VetService vetService;
 
-    public DataLoader() {
-        ownerService = new OwnerServiceMap();
-        vetService = new VetServiceMap();
+    public DataLoader(OwnerService ownerService, VetService vetService) {
+
+        this.ownerService = ownerService;
+        this.vetService = vetService;
     }
 
     @Override
