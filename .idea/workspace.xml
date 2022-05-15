@@ -32,7 +32,6 @@
   </component>
   <component name="ProjectId" id="27Ap7VJhgJp8OZk3dsigZvcPfXo" />
   <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
@@ -41,35 +40,25 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-data/src/main/java/map" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pet-clinic-web/src/main" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-data\src\main\java\map" />
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-data\src\main\java\service" />
-      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-data\src\main\java\model" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\src\main" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\src\main\resources\templates" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\src\main\resources\static\resources" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\src\main\resources\static" />
+      <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\src\main\java\com\PetClinic\petclinic\controller" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PetClinicApplication (1)">
-    <configuration name="PetClinicApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PetClinic.PetClinicApplication" />
-      <module name="pet-clinic-web" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="PetClinic.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="PetClinicApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.PetClinic.petclinic.PetClinicApplication" />
       <module name="pet-clinic-web" />
@@ -96,7 +85,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PetClinicApplication (1)" />
         <item itemvalue="Application.PetClinicApplication" />
       </list>
     </recent_temporary>

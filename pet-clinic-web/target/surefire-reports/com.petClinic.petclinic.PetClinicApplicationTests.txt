@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.petClinic.petclinic.PetClinicApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 3.214 s <<< FAILURE! - in com.petClinic.petclinic.PetClinicApplicationTests
+contextLoads  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'dataLoader' defined in file [D:\Spring\SFG-CLINIC-GERMAN3\pet-clinic-web\target\classes\com\PetClinic\petclinic\bootstrap\DataLoader.class]: Unsatisfied dependency expressed through constructor parameter 0; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.petClinic.petclinic.map.service.OwnerService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+Caused by: org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.petClinic.petclinic.map.service.OwnerService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}
+
